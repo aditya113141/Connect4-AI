@@ -13,4 +13,7 @@
 ``` bash
    python3 Game.py
 ```
+<div align="center">
+  <img src="screenshot.png">
+</div>
     
