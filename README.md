@@ -11,6 +11,6 @@
 ## Run
 
 ``` bash
-   python3 install Game.py
+   python3 Game.py
 ```
     
